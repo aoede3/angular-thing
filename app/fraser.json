@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "An ice sculpture",
+        "price": 12.5,
+        "tags": [
+            "cold",
+            "ice"
+        ],
+        "description": "The bag is perfect for a DSLR with a prime lens and a battery grip. I’ve even fit my 5DMkii with a battery grip and my Canon 24-70 f2.8 L simply by removing the divider padding. Since that’s a big lens, the interior space is completely maxed out. But all of my prime lenses fit with extra room. If you don’t use a battery grip, you’ve got even more space.",
+        "details": {
+            "titleGenre": "Road",
+            "subGenre": "Light &Amp; Fast",
+            "type": "hub",
+            "subType": "rear",
+            "itemName": "Pro 2 Evo",
+            "manufacturer_id": "hopeTech"
+        },
+        "specification": {
+            "weight": 250,
+            "price": 145,
+            "colour": "black",
+            "size": "",
+            "option": "disc",
+            "holeCount": 32
+        },
+        "manufacturer": {
+            "brand": "Hope Tech",
+            "nationality": "British",
+            "contactNumber": "01315555555",
+            "costPrice": 100
+        }
+    }
+]
